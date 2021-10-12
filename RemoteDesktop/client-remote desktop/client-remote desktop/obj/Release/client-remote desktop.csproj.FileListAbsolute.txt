@@ -1,0 +1,9 @@
+C:\Users\acer\source\repos\client-remote desktop\client-remote desktop\bin\Release\client-remote desktop.exe.config
+C:\Users\acer\source\repos\client-remote desktop\client-remote desktop\bin\Release\client-remote desktop.exe
+C:\Users\acer\source\repos\client-remote desktop\client-remote desktop\bin\Release\client-remote desktop.pdb
+C:\Users\acer\source\repos\client-remote desktop\client-remote desktop\obj\Release\client_remote_desktop.Form1.resources
+C:\Users\acer\source\repos\client-remote desktop\client-remote desktop\obj\Release\client_remote_desktop.Properties.Resources.resources
+C:\Users\acer\source\repos\client-remote desktop\client-remote desktop\obj\Release\client-remote desktop.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\client-remote desktop\client-remote desktop\obj\Release\client-remote desktop.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\client-remote desktop\client-remote desktop\obj\Release\client-remote desktop.exe
+C:\Users\acer\source\repos\client-remote desktop\client-remote desktop\obj\Release\client-remote desktop.pdb

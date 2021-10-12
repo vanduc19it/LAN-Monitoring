@@ -1,0 +1,42 @@
+E:\ملفات الكمبيوتر الشخصي\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Client\obj\Debug\Client.pdb
+E:\ملفات الكمبيوتر الشخصي\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Client\bin\Debug\Client.exe
+E:\ملفات الكمبيوتر الشخصي\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Client\bin\Debug\Client.pdb
+E:\ملفات الكمبيوتر الشخصي\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Client\obj\Debug\Client.Form1.resources
+E:\ملفات الكمبيوتر الشخصي\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\ملفات الكمبيوتر الشخصي\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Client\obj\Debug\Client.exe
+E:\درس الشبكة بالسي شارب\Streaming\TCP Remote ShutDown\C#\Client\obj\Debug\Client.exe
+E:\درس الشبكة بالسي شارب\Streaming\TCP Remote ShutDown\C#\Client\obj\Debug\Client.pdb
+E:\درس الشبكة بالسي شارب\Streaming\TCP Remote ShutDown\C#\Client\bin\Debug\Client.exe
+E:\درس الشبكة بالسي شارب\Streaming\TCP Remote ShutDown\C#\Client\bin\Debug\Client.pdb
+E:\درس الشبكة بالسي شارب\Streaming\TCP Remote ShutDown\C#\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\درس الشبكة بالسي شارب\Streaming\TCP Remote ShutDown\C#\Client\obj\Debug\Client.Form1.resources
+E:\درس الشبكة بالسي شارب\Streaming\TCP Remote ShutDown\C#\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\درس الشبكة بالسي شارب\Streaming\تجريب التحكم من جهاز بجهاز اخر\C#\Client\obj\Debug\Client.exe
+E:\درس الشبكة بالسي شارب\Streaming\تجريب التحكم من جهاز بجهاز اخر\C#\Client\obj\Debug\Client.pdb
+E:\درس الشبكة بالسي شارب\Streaming\تجريب التحكم من جهاز بجهاز اخر\C#\Client\bin\Debug\Client.exe
+E:\درس الشبكة بالسي شارب\Streaming\تجريب التحكم من جهاز بجهاز اخر\C#\Client\bin\Debug\Client.pdb
+E:\درس الشبكة بالسي شارب\Streaming\تجريب التحكم من جهاز بجهاز اخر\C#\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\درس الشبكة بالسي شارب\Streaming\تجريب التحكم من جهاز بجهاز اخر\C#\Client\obj\Debug\Client.Form1.resources
+E:\درس الشبكة بالسي شارب\Streaming\تجريب التحكم من جهاز بجهاز اخر\C#\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\درس الشبكة بالسي شارب\Streaming\تجريب التحكم من جهاز بجهاز اخر\C# Basem\Client\obj\Debug\Client.exe
+E:\درس الشبكة بالسي شارب\Streaming\تجريب التحكم من جهاز بجهاز اخر\C# Basem\Client\obj\Debug\Client.pdb
+E:\درس الشبكة بالسي شارب\Streaming\تجريب التحكم من جهاز بجهاز اخر\C# Basem\Client\bin\Debug\Client.exe
+E:\درس الشبكة بالسي شارب\Streaming\تجريب التحكم من جهاز بجهاز اخر\C# Basem\Client\bin\Debug\Client.pdb
+E:\درس الشبكة بالسي شارب\Streaming\تجريب التحكم من جهاز بجهاز اخر\C# Basem\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\درس الشبكة بالسي شارب\Streaming\تجريب التحكم من جهاز بجهاز اخر\C# Basem\Client\obj\Debug\Client.Form1.resources
+E:\درس الشبكة بالسي شارب\Streaming\تجريب التحكم من جهاز بجهاز اخر\C# Basem\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\شرح التحكم بالكمبيوتر مع أي كمبيوتر اخر بالشبكة\تجريب التحكم من جهاز بجهاز اخر\C# Basem\Client\obj\Debug\Client.exe
+E:\شرح التحكم بالكمبيوتر مع أي كمبيوتر اخر بالشبكة\تجريب التحكم من جهاز بجهاز اخر\C# Basem\Client\obj\Debug\Client.pdb
+E:\شرح التحكم بالكمبيوتر مع أي كمبيوتر اخر بالشبكة\تجريب التحكم من جهاز بجهاز اخر\C# Basem\Client\bin\Debug\Client.exe
+E:\شرح التحكم بالكمبيوتر مع أي كمبيوتر اخر بالشبكة\تجريب التحكم من جهاز بجهاز اخر\C# Basem\Client\bin\Debug\Client.pdb
+E:\شرح التحكم بالكمبيوتر مع أي كمبيوتر اخر بالشبكة\تجريب التحكم من جهاز بجهاز اخر\C# Basem\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\شرح التحكم بالكمبيوتر مع أي كمبيوتر اخر بالشبكة\تجريب التحكم من جهاز بجهاز اخر\C# Basem\Client\obj\Debug\Client.Form1.resources
+E:\شرح التحكم بالكمبيوتر مع أي كمبيوتر اخر بالشبكة\تجريب التحكم من جهاز بجهاز اخر\C# Basem\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\acer\Downloads\New folder\Control Any Pc By C#\Client\bin\Debug\Client.exe
+C:\Users\acer\Downloads\New folder\Control Any Pc By C#\Client\bin\Debug\Client.pdb
+C:\Users\acer\Downloads\New folder\Control Any Pc By C#\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\New folder\Control Any Pc By C#\Client\obj\Debug\Client.Form1.resources
+C:\Users\acer\Downloads\New folder\Control Any Pc By C#\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\New folder\Control Any Pc By C#\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\New folder\Control Any Pc By C#\Client\obj\Debug\Client.exe
+C:\Users\acer\Downloads\New folder\Control Any Pc By C#\Client\obj\Debug\Client.pdb

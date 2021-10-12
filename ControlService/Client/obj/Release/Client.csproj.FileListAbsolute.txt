@@ -1,0 +1,5 @@
+C:\Users\acer\Downloads\New folder\Control Any Pc By C#\Client\bin\Release\Client.exe
+C:\Users\acer\Downloads\New folder\Control Any Pc By C#\Client\obj\Release\Client.Form1.resources
+C:\Users\acer\Downloads\New folder\Control Any Pc By C#\Client\obj\Release\Client.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\New folder\Control Any Pc By C#\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\New folder\Control Any Pc By C#\Client\obj\Release\Client.exe

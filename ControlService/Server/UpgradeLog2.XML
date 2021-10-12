@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Server">
+</Property><Property Name="Solution File" Value="E:\ملفات الكمبيوتر الشخصي\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Server\Server.sln">
+</Property><Property Name="User Options File" Value="E:\ملفات الكمبيوتر الشخصي\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Server\Server.suo">
+</Property><Property Name="Date" Value="Tuesday, February 16, 2016">
+</Property><Property Name="Time" Value="16:40 م">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Server.sln" Description="File successfully backed up as E:\ملفات الكمبيوتر الشخصي\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Server\Backup1\Server.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Server.suo" Description="File successfully backed up as E:\ملفات الكمبيوتر الشخصي\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Server\Backup1\Server.suo">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server.csproj" Description="Project file successfully backed up as E:\ملفات الكمبيوتر الشخصي\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Server\Backup1\Server.csproj">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server.csproj.user" Description="Project user file successfully backed up as E:\ملفات الكمبيوتر الشخصي\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Server\Backup1\Server.csproj.user">
+</Event><Event ErrorLevel="0" Project="Server" Source="AssemblyInfo.cs" Description="File successfully backed up as E:\ملفات الكمبيوتر الشخصي\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Server\Backup1\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Form1.cs" Description="File successfully backed up as E:\ملفات الكمبيوتر الشخصي\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Server\Backup1\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="App.ico" Description="File successfully backed up as E:\ملفات الكمبيوتر الشخصي\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Server\Backup1\App.ico">
+</Event><Event ErrorLevel="0" Project="Server" Source="Form1.resx" Description="File successfully backed up as E:\ملفات الكمبيوتر الشخصي\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Server\Backup1\Form1.resx">
+</Event><Event ErrorLevel="1" Project="Server" Source="Server.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Server" Source="Server.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Server.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Server.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

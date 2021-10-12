@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client.csproj", "{F29C63EE-8B62-4DD3-9E0B-DE5486083995}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "setuppp", "..\setuppp\setuppp.vdproj", "{81214909-7C44-41E0-9F1F-6C32FE4AA0BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F29C63EE-8B62-4DD3-9E0B-DE5486083995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29C63EE-8B62-4DD3-9E0B-DE5486083995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29C63EE-8B62-4DD3-9E0B-DE5486083995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29C63EE-8B62-4DD3-9E0B-DE5486083995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81214909-7C44-41E0-9F1F-6C32FE4AA0BB}.Debug|Any CPU.ActiveCfg = Debug
+		{81214909-7C44-41E0-9F1F-6C32FE4AA0BB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A6A7416-6CAE-4808-A0FA-25591FFAC883}
+	EndGlobalSection
+EndGlobal

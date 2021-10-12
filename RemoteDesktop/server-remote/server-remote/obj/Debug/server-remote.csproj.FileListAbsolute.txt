@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\server-remote\server-remote\bin\Debug\server-remote.exe.config
+C:\Users\acer\source\repos\server-remote\server-remote\bin\Debug\server-remote.exe
+C:\Users\acer\source\repos\server-remote\server-remote\bin\Debug\server-remote.pdb
+C:\Users\acer\source\repos\server-remote\server-remote\obj\Debug\server-remote.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\server-remote\server-remote\obj\Debug\server_remote.Form1.resources
+C:\Users\acer\source\repos\server-remote\server-remote\obj\Debug\server_remote.Form2.resources
+C:\Users\acer\source\repos\server-remote\server-remote\obj\Debug\server_remote.Properties.Resources.resources
+C:\Users\acer\source\repos\server-remote\server-remote\obj\Debug\server-remote.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\server-remote\server-remote\obj\Debug\server-remote.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\server-remote\server-remote\obj\Debug\server-remote.exe
+C:\Users\acer\source\repos\server-remote\server-remote\obj\Debug\server-remote.pdb

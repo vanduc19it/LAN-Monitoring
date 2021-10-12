@@ -1,0 +1,10 @@
+C:\Users\acer\source\repos\client-remote desktop\client-remote desktop\bin\Debug\client-remote desktop.exe.config
+C:\Users\acer\source\repos\client-remote desktop\client-remote desktop\bin\Debug\client-remote desktop.exe
+C:\Users\acer\source\repos\client-remote desktop\client-remote desktop\bin\Debug\client-remote desktop.pdb
+C:\Users\acer\source\repos\client-remote desktop\client-remote desktop\obj\Debug\client-remote desktop.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\client-remote desktop\client-remote desktop\obj\Debug\client_remote_desktop.Form1.resources
+C:\Users\acer\source\repos\client-remote desktop\client-remote desktop\obj\Debug\client_remote_desktop.Properties.Resources.resources
+C:\Users\acer\source\repos\client-remote desktop\client-remote desktop\obj\Debug\client-remote desktop.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\client-remote desktop\client-remote desktop\obj\Debug\client-remote desktop.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\client-remote desktop\client-remote desktop\obj\Debug\client-remote desktop.exe
+C:\Users\acer\source\repos\client-remote desktop\client-remote desktop\obj\Debug\client-remote desktop.pdb

@@ -1,0 +1,7 @@
+E:\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Client\obj\Debug\Client.exe
+E:\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Client\obj\Debug\Client.pdb
+E:\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Client\bin\Debug\Client.exe
+E:\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Client\bin\Debug\Client.pdb
+E:\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Client\obj\Debug\ResolveAssemblyReference.cache
+E:\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Client\obj\Debug\Client.Form1.resources
+E:\مشاريع الدكتور انور جرندل\مشاريع برمجه برتوكولات الانترنت بالدت نت\Streaming\TCP Remote ShutDown\C#\Client\obj\Debug\Client.csproj.GenerateResource.Cache

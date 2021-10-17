@@ -1,0 +1,10 @@
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.exe
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.pdb
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\bin\Debug\Server_LAN_Monitoring_System.exe
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\bin\Debug\Server_LAN_Monitoring_System.pdb
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.frm_android_connect.resources
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.Properties.Resources.resources
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.Server_Start.resources
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\GenerateResource.write.1.tlog

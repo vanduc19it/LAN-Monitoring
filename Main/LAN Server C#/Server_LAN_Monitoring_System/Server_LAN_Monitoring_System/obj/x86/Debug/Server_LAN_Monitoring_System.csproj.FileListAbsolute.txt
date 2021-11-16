@@ -1,0 +1,35 @@
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.exe
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.pdb
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\bin\Debug\Server_LAN_Monitoring_System.exe
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\bin\Debug\Server_LAN_Monitoring_System.pdb
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.frm_android_connect.resources
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.Properties.Resources.resources
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.Server_Start.resources
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Praveen\Desktop\LAN Monitoring Project\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\acer\Desktop\LTM-cuoiki\LAN-Monitoring\new folder\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\bin\Debug\Server_LAN_Monitoring_System.exe
+C:\Users\acer\Desktop\LTM-cuoiki\LAN-Monitoring\new folder\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\bin\Debug\Server_LAN_Monitoring_System.pdb
+C:\Users\acer\Desktop\LTM-cuoiki\LAN-Monitoring\new folder\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.frm_android_connect.resources
+C:\Users\acer\Desktop\LTM-cuoiki\LAN-Monitoring\new folder\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.Properties.Resources.resources
+C:\Users\acer\Desktop\LTM-cuoiki\LAN-Monitoring\new folder\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.Server_Start.resources
+C:\Users\acer\Desktop\LTM-cuoiki\LAN-Monitoring\new folder\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\LTM-cuoiki\LAN-Monitoring\new folder\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\LTM-cuoiki\LAN-Monitoring\new folder\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.exe
+C:\Users\acer\Desktop\LTM-cuoiki\LAN-Monitoring\new folder\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.pdb
+C:\Users\acer\Desktop\LTM-cuoiki\LAN-Monitoring\new folder\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\bin\Debug\Server_LAN_Monitoring_System.exe.config
+C:\Users\acer\Desktop\LTM-cuoiki\LAN-Monitoring\new folder\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\LTM-cuoiki\LAN-Monitoring\new folder\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.Form1.resources
+C:\Users\acer\Desktop\LTM-final\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\bin\Debug\Server_LAN_Monitoring_System.exe.config
+C:\Users\acer\Desktop\LTM-final\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\bin\Debug\Server_LAN_Monitoring_System.exe
+C:\Users\acer\Desktop\LTM-final\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\bin\Debug\Server_LAN_Monitoring_System.pdb
+C:\Users\acer\Desktop\LTM-final\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\LTM-final\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.Form1.resources
+C:\Users\acer\Desktop\LTM-final\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.frm_android_connect.resources
+C:\Users\acer\Desktop\LTM-final\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.Properties.Resources.resources
+C:\Users\acer\Desktop\LTM-final\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.Server_Start.resources
+C:\Users\acer\Desktop\LTM-final\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\LTM-final\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\LTM-final\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.exe
+C:\Users\acer\Desktop\LTM-final\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.pdb
+C:\Users\acer\Desktop\LTM-final\LAN Server C#\Server_LAN_Monitoring_System\Server_LAN_Monitoring_System\obj\x86\Debug\Server_LAN_Monitoring_System.Form2.resources

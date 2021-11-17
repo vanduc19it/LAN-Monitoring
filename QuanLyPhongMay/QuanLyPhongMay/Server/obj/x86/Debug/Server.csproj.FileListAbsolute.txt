@@ -1,0 +1,25 @@
+C:\Users\Hoa Nguyen\Documents\Visual Studio 2010\Projects\QuanLyPhongMay\Server\bin\Debug\Server.exe
+C:\Users\Hoa Nguyen\Documents\Visual Studio 2010\Projects\QuanLyPhongMay\Server\bin\Debug\Server.pdb
+C:\Users\Hoa Nguyen\Documents\Visual Studio 2010\Projects\QuanLyPhongMay\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Hoa Nguyen\Documents\Visual Studio 2010\Projects\QuanLyPhongMay\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Hoa Nguyen\Documents\Visual Studio 2010\Projects\QuanLyPhongMay\Server\obj\x86\Debug\Server.exe
+C:\Users\Hoa Nguyen\Documents\Visual Studio 2010\Projects\QuanLyPhongMay\Server\obj\x86\Debug\Server.pdb
+C:\Users\Hoa Nguyen\Documents\Visual Studio 2010\Projects\QuanLyPhongMay\Server\obj\x86\Debug\Server.frm_Server.resources
+C:\Users\Hoa Nguyen\Documents\Visual Studio 2010\Projects\QuanLyPhongMay\Server\obj\x86\Debug\Server.frm_Chat.resources
+C:\Users\Hoa Nguyen\Documents\Visual Studio 2010\Projects\QuanLyPhongMay\Server\obj\x86\Debug\Server.frm_SendAll.resources
+C:\Users\Hoa Nguyen\Documents\Visual Studio 2010\Projects\QuanLyPhongMay\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Hoa Nguyen\Documents\Visual Studio 2010\Projects\QuanLyPhongMay\Server\obj\x86\Debug\Server.frm_Remote.resources
+C:\Users\Hoa Nguyen\Documents\Visual Studio 2010\Projects\QuanLyPhongMay\Server\obj\x86\Debug\Server.frm_Setting.resources
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Server\bin\Debug\Server.exe
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Server\bin\Debug\Server.pdb
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Server\obj\x86\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Server\obj\x86\Debug\Server.frm_Chat.resources
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Server\obj\x86\Debug\Server.frm_Remote.resources
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Server\obj\x86\Debug\Server.frm_SendAll.resources
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Server\obj\x86\Debug\Server.frm_Server.resources
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Server\obj\x86\Debug\Server.frm_Setting.resources
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Server\obj\x86\Debug\Server.exe
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Server\obj\x86\Debug\Server.pdb

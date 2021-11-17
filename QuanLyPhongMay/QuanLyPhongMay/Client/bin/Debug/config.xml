@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config>
+  <ip>127.0.0.1</ip>
+  <port>6000</port>
+  <portRM>7000</portRM>
+</config>

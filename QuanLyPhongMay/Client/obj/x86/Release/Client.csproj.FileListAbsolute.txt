@@ -1,9 +1,0 @@
-C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\Client\bin\Release\Client.exe
-C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\Client\bin\Release\Client.pdb
-C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\Client\obj\x86\Release\Client.frm_Client.resources
-C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\Client\obj\x86\Release\Client.frm_Setting.resources
-C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\Client\obj\x86\Release\Client.Properties.Resources.resources
-C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\Client\obj\x86\Release\Client.csproj.GenerateResource.cache
-C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\Client\obj\x86\Release\Client.csproj.CoreCompileInputs.cache
-C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\Client\obj\x86\Release\Client.exe
-C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\Client\obj\x86\Release\Client.pdb

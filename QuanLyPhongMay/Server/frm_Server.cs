@@ -10,6 +10,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Threading;
 using System.Xml;
+using System.Text.RegularExpressions;
 
 namespace Server
 {
@@ -95,6 +96,8 @@ namespace Server
                     byte[] buffer = new byte[tcpClient.ReceiveBufferSize];
                     netStream.Read(buffer, 0, tcpClient.ReceiveBufferSize);
                     string receive = Encoding.UTF8.GetString(buffer).Trim();
+
+
                     string[] spl = receive.Split('|');
                     switch (spl[0].ToUpper())
                     {
@@ -147,6 +150,12 @@ namespace Server
                         case "CHAT":
                             sendMsg("RESEND|" + receive,client._tcpClient);
                             break;
+                        case "GET":
+                            if (receive.Contains("@#"))
+                            {
+                                listAllProcesses(receive);
+                            }
+                            break;
                     }
                 }
                 catch
@@ -163,6 +172,7 @@ namespace Server
             byte[] buffer = Encoding.UTF8.GetBytes(msg + "|");
             netStream.Write(buffer, 0, buffer.Length);
             netStream.Flush();
+            
         }
 
         private int getId()
@@ -357,6 +367,143 @@ namespace Server
             this.Close();
         }
         #endregion
+
+     /*   private void getProcessToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            int id = getId();
+            if (id != 0)
+            {
+                clientManager client = searchClient(id);
+                if (client != null)
+                {
+                    sendMsg("SHUTDOWN|", client._tcpClient);
+                }
+            }
+            else
+                MessageBox.Show("Chọn máy cần thao tác!", "Thông báo!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }*/
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int id = getId();
+
+            if (id != 0)
+            {
+                clientManager client = searchClient(id);
+
+                if (client != null)
+                {
+
+                    sendMsg("STP|" + textBox1.Text, client._tcpClient);
+
+                    MessageBox.Show("Đã mở " + textBox1.Text + "!", "Thông báo!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                }
+            }
+            else
+                MessageBox.Show("Lỗi! Không mở được" + textBox1.Text, "Thông báo!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+
+        }
+
+        private void menuStrip_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void dataGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void btnGetProcess_Click(object sender, EventArgs e)
+        {
+           
+            int id = getId();
+
+            if (id != 0)
+            {
+                clientManager client = searchClient(id);
+
+                if (client != null)
+                {
+                    sendMsg("GETP|", client._tcpClient);
+
+                    MessageBox.Show("Đã get được process !", "Thông báo!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                }
+            }
+            else
+                MessageBox.Show("tesst", "Thông báo!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        
+          
+        }
+
+        
+
+       /* private void doListen2()
+        {
+            TcpClient tcpClient = _tcpClient;
+           
+            NetworkStream netStream = tcpClient.GetStream();
+            while (true)
+            {
+                try
+                {
+                    byte[] buffer = new byte[tcpClient.ReceiveBufferSize];
+                    netStream.Read(buffer, 0, tcpClient.ReceiveBufferSize);
+                    string receive = Encoding.UTF8.GetString(buffer).Trim();
+
+
+
+                    if (receive.Contains("|"))
+                    {
+                        listAllProcesses(receive);
+                    }
+                }
+                catch
+                {
+                    MessageBox.Show("tesst", "Thông báo!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
+            }
+        }
+*/
+
+        private void listAllProcesses(string result)
+        {
+            listBox1.Items.Clear();
+            String[] ps = Regex.Split(result, "@#");
+            foreach (String s in ps)
+            {
+                addToProcessList(s);
+            }
+
+        }
+
+        public void addToProcessList(String str)
+        {
+            if (listBox1.InvokeRequired)
+                listBox1.BeginInvoke(new Action(() => listBox1.Items.Add(str)
+        ));
+            else
+                listBox1.BeginInvoke(new Action(() => listBox1.Items.Add(str)));
+
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Đã kill process !", "Thông báo!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }
 

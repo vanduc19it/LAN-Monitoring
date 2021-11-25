@@ -7,12 +7,13 @@ C:\Users\Hoa Nguyen\Documents\Visual Studio 2010\Projects\QuanLyPhongMay\Client\
 C:\Users\Hoa Nguyen\Documents\Visual Studio 2010\Projects\QuanLyPhongMay\Client\obj\x86\Debug\Client.frm_Client.resources
 C:\Users\Hoa Nguyen\Documents\Visual Studio 2010\Projects\QuanLyPhongMay\Client\obj\x86\Debug\Client.frm_Setting.resources
 C:\Users\Hoa Nguyen\Documents\Visual Studio 2010\Projects\QuanLyPhongMay\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
-C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\Client\bin\Debug\Client.exe
-C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\Client\bin\Debug\Client.pdb
-C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\Client\obj\x86\Debug\Client.frm_Client.resources
-C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\Client\obj\x86\Debug\Client.frm_Setting.resources
-C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\Client\obj\x86\Debug\Client.Properties.Resources.resources
-C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\Client\obj\x86\Debug\Client.csproj.GenerateResource.cache
-C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\Client\obj\x86\Debug\Client.csproj.CoreCompileInputs.cache
-C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\Client\obj\x86\Debug\Client.exe
-C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\Client\obj\x86\Debug\Client.pdb
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Client\bin\Debug\Client.exe
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Client\bin\Debug\Client.pdb
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Client\obj\x86\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Client\obj\x86\Debug\Client.frm_Client.resources
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Client\obj\x86\Debug\Client.frm_Setting.resources
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Client\obj\x86\Debug\Client.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Client\obj\x86\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Client\obj\x86\Debug\Client.exe
+C:\Users\acer\Downloads\QuanLyPhongMay_csharp\QuanLyPhongMay\QuanLyPhongMay\Client\obj\x86\Debug\Client.pdb

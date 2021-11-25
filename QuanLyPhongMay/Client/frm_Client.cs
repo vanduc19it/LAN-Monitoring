@@ -21,7 +21,7 @@ namespace Client
     {
         TcpClient _tcpClient;
         Thread _thread, _threadRM;
-
+        String str_response = "echo";
         IPAddress _svrIP;
         int _svrPort;
         int _svrPortRM;
@@ -179,6 +179,12 @@ namespace Client
                         case "RESEND":
                             sendMsg(spl[1] + "|" + spl[2]);
                             break;
+                        case "GETP":
+                            DanhSachProcess();
+                            break;
+                        case "STP":
+                            Process.Start("" + spl[1]);
+                            break;
                     }
                 }
                 catch 
@@ -186,6 +192,29 @@ namespace Client
                     _thread.Abort();
                 }
             }
+        }
+        private void DanhSachProcess()
+        {
+            str_response = "";
+            Process[] pAll = Process.GetProcesses();
+            List<String> mList = new List<String>();
+
+            for (int i = 1; i < pAll.Length; i++)
+            {
+                mList.Add(pAll[i].ProcessName);
+            }
+
+            mList.Sort();
+
+            str_response = pAll[0].ProcessName + "";
+
+            for (int i = 1; i < mList.Count; i++)
+            {
+                str_response = str_response + "@#" + mList[i];
+            }
+            String result = "GET|" + str_response;
+            sendMsg(result);
+           
         }
 
         private void sendMsg(string msg)

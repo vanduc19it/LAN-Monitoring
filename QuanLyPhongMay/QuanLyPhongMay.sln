@@ -1,13 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31613.86
-MinimumVisualStudioVersion = 10.0.40219.1
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{6CC9FDAD-824C-4EB1-8766-CB21CB2DC0D4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{D2BAB441-E632-4EA5-B6CA-5996D7D34BAD}"
-EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2", "Setup2\Setup2.vdproj", "{47C7D474-8651-491C-8EA2-3AD4EE5D0836}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,13 +19,8 @@ Global
 		{D2BAB441-E632-4EA5-B6CA-5996D7D34BAD}.Debug|x86.Build.0 = Debug|x86
 		{D2BAB441-E632-4EA5-B6CA-5996D7D34BAD}.Release|x86.ActiveCfg = Release|x86
 		{D2BAB441-E632-4EA5-B6CA-5996D7D34BAD}.Release|x86.Build.0 = Release|x86
-		{47C7D474-8651-491C-8EA2-3AD4EE5D0836}.Debug|x86.ActiveCfg = Debug
-		{47C7D474-8651-491C-8EA2-3AD4EE5D0836}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1E861A07-6E0B-4FDB-89C3-CC97DF406488}
 	EndGlobalSection
 EndGlobal

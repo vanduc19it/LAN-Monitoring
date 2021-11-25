@@ -43,17 +43,18 @@
             // 
             // btnSend
             // 
+            this.btnSend.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.btnSend.Location = new System.Drawing.Point(13, 232);
             this.btnSend.Name = "btnSend";
             this.btnSend.Size = new System.Drawing.Size(259, 23);
             this.btnSend.TabIndex = 1;
-            this.btnSend.Text = "Gởi";
-            this.btnSend.UseVisualStyleBackColor = true;
+            this.btnSend.Text = "Gửi";
+            this.btnSend.UseVisualStyleBackColor = false;
             this.btnSend.Click += new System.EventHandler(this.btnSend_Click);
             // 
             // frm_SendAll
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 262);
             this.Controls.Add(this.btnSend);
@@ -66,8 +67,9 @@
             this.MinimizeBox = false;
             this.Name = "frm_SendAll";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Gởi tin nhắn đến tất cả";
+            this.Text = "Gửi tin nhắn đến tất cả";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frm_SendAll_FormClosing);
+            this.Load += new System.EventHandler(this.frm_SendAll_Load);
             this.ResumeLayout(false);
 
         }

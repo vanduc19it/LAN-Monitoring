@@ -36,12 +36,13 @@
             // 
             // btn_Send
             // 
+            this.btn_Send.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.btn_Send.Location = new System.Drawing.Point(400, 193);
             this.btn_Send.Name = "btn_Send";
             this.btn_Send.Size = new System.Drawing.Size(75, 23);
             this.btn_Send.TabIndex = 7;
             this.btn_Send.Text = "Gửi";
-            this.btn_Send.UseVisualStyleBackColor = true;
+            this.btn_Send.UseVisualStyleBackColor = false;
             this.btn_Send.Click += new System.EventHandler(this.btn_Send_Click);
             // 
             // txt_Message
@@ -54,6 +55,7 @@
             // 
             // rtxt_Messeage
             // 
+            this.rtxt_Messeage.BackColor = System.Drawing.SystemColors.HighlightText;
             this.rtxt_Messeage.Location = new System.Drawing.Point(7, 7);
             this.rtxt_Messeage.Name = "rtxt_Messeage";
             this.rtxt_Messeage.ReadOnly = true;

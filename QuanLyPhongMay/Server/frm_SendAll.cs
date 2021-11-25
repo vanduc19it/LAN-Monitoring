@@ -45,5 +45,10 @@ namespace Server
         {
             this.Dispose();
         }
+
+        private void frm_SendAll_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

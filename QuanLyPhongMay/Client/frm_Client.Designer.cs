@@ -43,12 +43,12 @@
             // 
             // menuStrip
             // 
+            this.menuStrip.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.menuToolStripMenuItem});
             this.menuStrip.Location = new System.Drawing.Point(0, 0);
             this.menuStrip.Name = "menuStrip";
-            this.menuStrip.Padding = new System.Windows.Forms.Padding(8, 2, 0, 2);
-            this.menuStrip.Size = new System.Drawing.Size(494, 24);
+            this.menuStrip.Size = new System.Drawing.Size(494, 30);
             this.menuStrip.TabIndex = 0;
             this.menuStrip.Text = "menuStrip";
             // 
@@ -60,33 +60,34 @@
             this.exitToolStripMenuItem});
             this.menuToolStripMenuItem.Font = new System.Drawing.Font("Courier New", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.menuToolStripMenuItem.Name = "menuToolStripMenuItem";
-            this.menuToolStripMenuItem.Size = new System.Drawing.Size(52, 20);
+            this.menuToolStripMenuItem.Size = new System.Drawing.Size(63, 26);
             this.menuToolStripMenuItem.Text = "Menu";
             // 
             // settingToolStripMenuItem
             // 
             this.settingToolStripMenuItem.Name = "settingToolStripMenuItem";
-            this.settingToolStripMenuItem.Size = new System.Drawing.Size(164, 22);
+            this.settingToolStripMenuItem.Size = new System.Drawing.Size(202, 26);
             this.settingToolStripMenuItem.Text = "Cấu hình";
             this.settingToolStripMenuItem.Click += new System.EventHandler(this.settingToolStripMenuItem_Click);
             // 
             // restartToolStripMenuItem
             // 
             this.restartToolStripMenuItem.Name = "restartToolStripMenuItem";
-            this.restartToolStripMenuItem.Size = new System.Drawing.Size(164, 22);
+            this.restartToolStripMenuItem.Size = new System.Drawing.Size(202, 26);
             this.restartToolStripMenuItem.Text = "Kết nối lại";
             this.restartToolStripMenuItem.Click += new System.EventHandler(this.restartToolStripMenuItem_Click);
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(164, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(202, 26);
             this.exitToolStripMenuItem.Text = "Thoát";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
             // lbl_Info
             // 
-            this.lbl_Info.ForeColor = System.Drawing.Color.Red;
+            this.lbl_Info.Font = new System.Drawing.Font("Courier New", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_Info.ForeColor = System.Drawing.Color.DodgerBlue;
             this.lbl_Info.Location = new System.Drawing.Point(13, 30);
             this.lbl_Info.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbl_Info.Name = "lbl_Info";
@@ -97,6 +98,7 @@
             // 
             // rtxt_Messeage
             // 
+            this.rtxt_Messeage.BackColor = System.Drawing.SystemColors.HighlightText;
             this.rtxt_Messeage.Location = new System.Drawing.Point(12, 54);
             this.rtxt_Messeage.Name = "rtxt_Messeage";
             this.rtxt_Messeage.ReadOnly = true;
@@ -110,24 +112,25 @@
             this.txt_Message.Enabled = false;
             this.txt_Message.Location = new System.Drawing.Point(12, 240);
             this.txt_Message.Name = "txt_Message";
-            this.txt_Message.Size = new System.Drawing.Size(386, 22);
+            this.txt_Message.Size = new System.Drawing.Size(386, 26);
             this.txt_Message.TabIndex = 3;
             this.txt_Message.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_Message_KeyDown);
             // 
             // btn_Send
             // 
+            this.btn_Send.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.btn_Send.Enabled = false;
             this.btn_Send.Location = new System.Drawing.Point(405, 240);
             this.btn_Send.Name = "btn_Send";
             this.btn_Send.Size = new System.Drawing.Size(75, 23);
             this.btn_Send.TabIndex = 4;
-            this.btn_Send.Text = "Gởi";
-            this.btn_Send.UseVisualStyleBackColor = true;
+            this.btn_Send.Text = "Gửi";
+            this.btn_Send.UseVisualStyleBackColor = false;
             this.btn_Send.Click += new System.EventHandler(this.btn_Send_Click);
             // 
             // frm_Client
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(494, 272);
             this.Controls.Add(this.btn_Send);

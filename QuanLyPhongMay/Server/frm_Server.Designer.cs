@@ -66,7 +66,7 @@
             this.menuToolStripMenuItem});
             this.menuStrip.Location = new System.Drawing.Point(0, 0);
             this.menuStrip.Name = "menuStrip";
-            this.menuStrip.Size = new System.Drawing.Size(1096, 30);
+            this.menuStrip.Size = new System.Drawing.Size(1096, 28);
             this.menuStrip.TabIndex = 1;
             this.menuStrip.Text = "menuStrip1";
             this.menuStrip.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip_ItemClicked);
@@ -80,7 +80,7 @@
             this.exitToolStripMenuItem});
             this.menuToolStripMenuItem.Font = new System.Drawing.Font("Courier New", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.menuToolStripMenuItem.Name = "menuToolStripMenuItem";
-            this.menuToolStripMenuItem.Size = new System.Drawing.Size(63, 26);
+            this.menuToolStripMenuItem.Size = new System.Drawing.Size(63, 24);
             this.menuToolStripMenuItem.Text = "Menu";
             // 
             // sendAllToolStripMenuItem
@@ -177,7 +177,7 @@
             // 
             // dataGridView
             // 
-            this.dataGridView.BackgroundColor = System.Drawing.SystemColors.ActiveCaption;
+            this.dataGridView.BackgroundColor = System.Drawing.SystemColors.MenuHighlight;
             this.dataGridView.ColumnHeadersHeight = 29;
             this.dataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             this.dataGridView.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {

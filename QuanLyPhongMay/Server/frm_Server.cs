@@ -448,35 +448,6 @@ namespace Server
           
         }
 
-        
-
-       /* private void doListen2()
-        {
-            TcpClient tcpClient = _tcpClient;
-           
-            NetworkStream netStream = tcpClient.GetStream();
-            while (true)
-            {
-                try
-                {
-                    byte[] buffer = new byte[tcpClient.ReceiveBufferSize];
-                    netStream.Read(buffer, 0, tcpClient.ReceiveBufferSize);
-                    string receive = Encoding.UTF8.GetString(buffer).Trim();
-
-
-
-                    if (receive.Contains("|"))
-                    {
-                        listAllProcesses(receive);
-                    }
-                }
-                catch
-                {
-                    MessageBox.Show("tesst", "Thông báo!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                }
-            }
-        }
-*/
 
         private void listAllProcesses(string result)
         {
@@ -502,7 +473,26 @@ namespace Server
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Đã kill process !", "Thông báo!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            
+            
+
+            int id = getId();
+
+            if (id != 0)
+            {
+                clientManager client = searchClient(id);
+
+                if (client != null)
+                {
+
+                    sendMsg("KILLP|" + listBox1.SelectedItem.ToString() + "|", client._tcpClient);
+
+                    MessageBox.Show("Đã tắt " + listBox1.SelectedItem.ToString() + "!", "Thông báo!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                }
+            }
+            else
+                MessageBox.Show("Lỗi! Không tắt được" + listBox1.SelectedItem.ToString(), "Thông báo!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
         }
     }
 }

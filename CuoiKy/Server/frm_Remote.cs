@@ -69,6 +69,16 @@ namespace Server
             }
             this.Close();
         }
+        //chup mh
+        private void GrabScreen()
+        {
+            Rectangle rect = Screen.PrimaryScreen.Bounds;
+            Bitmap bm = new Bitmap(rect.Width, rect.Height);
+            Graphics g = Graphics.FromImage(bm);
+            g.CopyFromScreen(0, 0, 0, 0, rect.Size);
+            this.BackgroundImage = bm;
+        }
+
 
         private void sendMsg(string msg)
         {
@@ -153,6 +163,18 @@ namespace Server
         private void resetToolStripMenuItem_Click(object sender, EventArgs e)
         {
             sendMsg("RESTART|");
+        }
+
+
+        //chup man hinh
+        private void btnchup_Click(object sender, EventArgs e)
+        {
+            GrabScreen();
+        }
+        //luu anh
+        private void btnsave_Click(object sender, EventArgs e)
+        {
+            this.BackgroundImage.Save("Screen.png");
         }
 
         private void shutdownToolStripMenuItem_Click(object sender, EventArgs e)

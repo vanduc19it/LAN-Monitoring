@@ -183,7 +183,15 @@ namespace Client
                             DanhSachProcess();
                             break;
                         case "STP":
-                            Process.Start("" + spl[1]);
+                            try
+                            {
+                                Process.Start("" + spl[1]);
+                            }
+                            catch
+                            {
+                                
+                            }
+                           
                             break;
                         case "KILLP":
                             var processes = Process.GetProcessesByName(spl[1]);
